@@ -1,0 +1,16 @@
+C:\Users\francois\source\repos\machina2\machina2\machina2\bin\Debug\netstandard2.0\machina2.deps.json
+C:\Users\francois\source\repos\machina2\machina2\machina2\bin\Debug\netstandard2.0\machina2.dll
+C:\Users\francois\source\repos\machina2\machina2\machina2\bin\Debug\netstandard2.0\ref\machina2.dll
+C:\Users\francois\source\repos\machina2\machina2\machina2\bin\Debug\netstandard2.0\machina2.pdb
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.csproj.AssemblyReference.cache
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.AssemblyInfoInputs.cache
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.AssemblyInfo.cs
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.csproj.CoreCompileInputs.cache
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.dll
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\refint\machina2.dll
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\machina2.pdb
+C:\Users\francois\source\repos\machina2\machina2\machina2\obj\Debug\netstandard2.0\ScannerPage.xaml.g.cs
